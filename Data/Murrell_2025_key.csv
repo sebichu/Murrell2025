@@ -1,4 +1,4 @@
-Filename,Task,Strain,MomGenotype,DadGenotype,Gene_number,Animal_ID,Sex,Genotype,DOB,FED3,Start_Date
+Filename,Task,Strain,MomGenotype,DadGenotype,SSPsyGene_number,Animal_ID,Sex,Genotype,DOB,FED3,Start_Date
 ,,MYT1L,,,1,7_32,f,Wt,12/13/2024,017,3/3/2025
 ,,MYT1L,,,1,8_34,m,Wt,12/13/2024,037,3/3/2025
 ,,MYT1L,,,1,8_36,m,Wt,12/13/2024,038,3/3/2025
