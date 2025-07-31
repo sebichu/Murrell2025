@@ -1,0 +1,8 @@
+MM:DD:YYYY hh:mm:ss,Library_Version,Session_type,Device_Number,Battery_Voltage,Motor_Turns,PelletsToSwitch,Prob_left,Prob_right,Event,High_prob_poke,Left_Poke_Count,Right_Poke_Count,Pellet_Count,Block_Pellet_Count,Retrieval_Time,InterPelletInterval,Poke_Time
+7/14/2025 12:16:05,1.17.0,Bandit80,9,4.18,nan,20,20,80,Left,Right,1,0,0,0,nan,nan,0.69
+7/14/2025 12:16:08,1.17.0,Bandit80,9,4.19,nan,20,20,80,RightinTimeout,Right,1,0,0,0,nan,nan,0.00
+7/14/2025 12:16:09,1.17.0,Bandit80,9,4.19,nan,20,20,80,RightinTimeout,Right,1,0,0,0,nan,nan,0.00
+7/14/2025 12:16:17,1.17.0,Bandit80,9,4.18,nan,20,20,80,RightinTimeout,Right,1,0,0,0,nan,nan,0.00
+7/14/2025 12:16:17,1.17.0,Bandit80,9,4.18,nan,20,20,80,RightinTimeout,Right,1,0,0,0,nan,nan,0.00
+7/14/2025 12:16:19,1.17.0,Bandit80,9,4.19,nan,20,20,80,RightinTimeout,Right,1,0,0,0,nan,nan,0.00
+7/14/2025 12:16:20,1.17.0,Bandit80,9,4.18,nan,20,20,80,RightinTimeout,Right,1,0,0,0,nan,nan,0.00
